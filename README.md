@@ -16,6 +16,5 @@ the "Deliver" stage of your Pipeline.
 
 #test webhooks
 
-checking poll scm 
 
 
